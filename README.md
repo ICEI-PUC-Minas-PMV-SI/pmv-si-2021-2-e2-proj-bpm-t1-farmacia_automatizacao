@@ -13,7 +13,8 @@ O presente trabalho identificou os processos envolvidos em uma farmácia e prop�
 
 ## Professor
 
-Eveline Alonso Veloso
+| [<img alt="evelinealonso" src="https://github.com/evelinealonso.png?size=115" width="115"><br><sub>Eveline Alonso Veloso</sub>](https://github.com/evelinealonso)|
+| :---: |
 
 ## Histórico de versões
 
